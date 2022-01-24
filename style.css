@@ -1,0 +1,6 @@
+body{
+    background:linear-gradient(aqua 0%, darkblue 100%);
+}
+#images{
+    height: 200px;
+}
